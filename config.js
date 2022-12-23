@@ -50,77 +50,77 @@ const readMore = more.repeat(4001)
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NO OWNER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.owner = [
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true]
+['6285237596750', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+['6285237596750', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true]
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285715382503'
-global.nomorown = '6281386943282'
-global.nomorown1 = '6281386943282'
-global.nomorown2 = '6281386943282'
+global.nomorbot = '6285792429140'
+global.nomorown = '6285237596750'
+global.nomorown1 = '6285237596750'
+global.nomorown2 = '6285237596750'
 global.nomorwa = '0'
-global.nameown = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
 
 /*============== STAFF ==============*/
 /*global.owner = [
-  ['6281386943282', '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true],
-  ['-', 'ISI KALAU ADA', true]
+  ['6285237596750', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['-', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['-', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['-', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true],
+  ['-', 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗', true]
 
 */
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.gcname = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.botintro = 'Hallo, Saya ZykoBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
-global.intro = 'https://telegra.ph/file/676bac7774d2785b7ee1e.jpg'
-global.author = 'Created By 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.media = 'https://telegra.ph/file/6db207196807bcf1ca1c5.jpg'
+global.gcname = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.botintro = 'Hallo, Saya DityaBotz-MD Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh zyko-md ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.intro = 'https://telegra.ph/file/daa952cc90c9c6808f424.jpg'
+global.author = 'Created By Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.namebot = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.packname2 = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.media = 'https://telegra.ph/file/daa952cc90c9c6808f424.jpg'
 global.watermark = wm
-global.wame = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.wm2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗 '
+global.wame = 'https://wa.me/6285237596750'
+global.wm2 = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
-global.stickpack = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.stickauth = `© 𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.titlebot = `Ditya𝗕𝗼𝘁𝘇-𝗠𝗗`
+global.stickpack = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.stickauth = `© Ditya𝗕𝗼𝘁𝘇-𝗠𝗗`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.nameown1= '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.nameown2 = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown1= 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
+global.nameown2 = 'Ditya𝗕𝗼𝘁𝘇-𝗠𝗗'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
-global.lynk = 'https://lynk.id/hyuuraofc'
+global.lynk = '-'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA SOSSIAL ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = 'https://instagram.com/kabulsaputra21'
-global.tautanwa = 'https://wa.me/message/IT4R6JHOR74XP1'
-global.sgh = 'https://github.com/ZykoBotz-MD' //github
-global.sgc = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R' //group whatsapp
+global.sig = 'https://instagram.com/q.c.ditya'
+global.tautanwa = 'https://wa.me/6285237596750'
+global.sgh = 'https://github.com/Dityarunz' //github
+global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP' //group whatsapp
 global.sdc = '-' //discord
-global.syt = 'https://youtube.com/@zykobotz'
+global.syt = 'gakada'
 global.sfb = 'https://www.facebook.com/' // facebook
-global.snh = 'https://chat.whatsapp.com/F8JCtpCaSRFLmFf70TvF3R'
+global.snh = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.pdana = '085212649276'
-global.povo = '081386943282'
-global.pgopay = '085212649276'
+global.pdana = '085792429140'
+global.povo = '085738153140'
+global.pgopay = '085792429140'
 global.plinkaja = '-' //link aja
-global.ppulsa = '085212649276'
-global.ppulsa2 = '085212649276'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '085792429140'
+global.ppulsa2 = '085792429140'
+global.psaweria = '-'
+global.donasikabul = 'Jasa Sewa DityaBotz-MD\nhttps://wa.me/6285237596750',
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
@@ -341,9 +341,9 @@ global.hoppai = ['https://telegra.ph/file/f34d76df4a2065af1a5ba.jpg','https://te
 global.logo = 'https://i.pinimg.com/564x/f7/d2/e4/f7d2e48fd59a8c01cd396bfc70b0a2d1.jpg'
 
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
-global.urlnya = "https://www.instagram.com/kabulsaputra21"
+global.urlnya = "https://www.instagram.com/q.c.ditya"
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '6281386943282'
+global.phn = '6285237596750'
 
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ JNGN DI UBAH ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
